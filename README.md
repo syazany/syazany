@@ -1,5 +1,5 @@
 ### Hi there, I'm Syazany 👋
-I like to write open source personal projects mainly written in Laravel & React.js/Vue.js and using Tailwind as my CSS framework. 
+I like to write open source personal projects mainly written in Laravel & React.js/Vue.js and using Tailwind as my CSS framework.</br> 
 My passion is to develop software that people enjoy using.
 
 - 🌍 I’m based in Malaysia
