@@ -4,6 +4,7 @@ My passion is to develop software that people enjoy using.
 
 - 🌍 I’m based in Malaysia
 - 🖥️ My portfolio is at  [syazany.com](http://syazany.com)
+- Working on tradersign.com(http://tradersign.com)
 
 ### Contact Me 📬
 - syazany.shuhaimi@gmail.com
